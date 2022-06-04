@@ -10,6 +10,6 @@
 </h2>
 
 ### Here will be records of lessons:
-1. [text](https://)
+1. [Seminar and HW](https://github.com/FyodoRaev/Teaching-ML) [Useful link](https://www.youtube.com/c/joshstarmer/videos) [Numpy documentation](https://numpy.org/doc/stable/index.html)
 2. [text](https://)
 3. 
