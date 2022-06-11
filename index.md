@@ -11,5 +11,5 @@
 
 ### Here will be records of lessons:
 1. [Seminar and HW](https://github.com/FyodoRaev/Teaching-ML) [Useful link](https://www.youtube.com/c/joshstarmer/videos) [Numpy documentation](https://numpy.org/doc/stable/index.html)
-2. Working with Data. [Homework and Lecture resourses](https://github.com/FyodoRaev/Teaching-ML/tree/main/Data%20wrangling) [Example of EDA](https://www.kaggle.com/code/sdip28/pubg-exploratory-data-analysis-prediction/notebook) [Lecture recording](https://youtu.be/ayDEICCgzLQ)
+2. Working with Data. [Homework and Lecture resourses](https://github.com/FyodoRaev/Teaching-ML/tree/main/Data%20wrangling) [Example of EDA](https://www.kaggle.com/code/sdip28/pubg-exploratory-data-analysis-prediction/notebook) [Lecture recording](https://youtu.be/ayDEICCgzLQ) [Why should do we care about Feature-engineering and correlations?](explanation1.md)
 3. 
