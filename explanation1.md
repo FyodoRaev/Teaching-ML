@@ -17,8 +17,8 @@ The focus of deep learning practitioners is not so much on handcrafting those re
 features are better than those that are handcrafted! As with many disruptive technologies, this fact has led to a change in perspective.
 
 ![Figure 1.1](https://cdn.discordapp.com/attachments/982311712017481746/985150448413593610/unknown.png)
- On the left side of figure 1.1, we see a practitioner busy defining engineering features and feeding them to a learning algorithm; the results on the task will be as good
-as the features the practitioner engineers. On the right, with deep learning, the raw
+ On the right side of figure 1.1, we see a practitioner busy defining engineering features and feeding them to a learning algorithm; the results on the task will be as good
+as the features the practitioner engineers. On the left, with deep learning, the raw
 data is fed to an algorithm that extracts hierarchical features automatically, guided by
 the optimization of its own performance on the task; the results will be as good as the
 ability of the practitioner to drive the algorithm toward its goal.
