@@ -19,4 +19,5 @@
 *   [Example of EDA](https://www.kaggle.com/code/sdip28/pubg-exploratory-data-analysis-prediction/notebook)
 *   [Lecture recording](https://youtu.be/ayDEICCgzLQ)
 *   [Why should do we care about Feature-engineering and correlations?](explanation1.md)
-3. [Smth](https://)
+3. Probability theory:
+* [This](https://github.com/FyodoRaev/Teaching-ML/blob/main/probability_theory.md) is a link to the markdown with Probability theory session. I won't be able to have a call on this saturday so I just put all the neccesary references there. Just explore it. No homework on this topic. 
