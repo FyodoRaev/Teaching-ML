@@ -1,1 +1,1 @@
-
+Yo! Hello guys, about classification hw: basically you need to download this dataset https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud, and do the same research as we did in the seminar with pulsars/stars (the notebook is already published on github), i.e. try different models, find the values of different metrics (ROC-AUC, f1,f2, presicion, recall), choose one of them, explain your choice and maximize the following metric. Try logreg, naive model(almost all transactions are not fraudulent), KNN. I hope youll like it. Good luck!
